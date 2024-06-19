@@ -1,0 +1,11 @@
+一、keypair课程
+安装依赖
+npm install typescript @solana/web3.js esrun @solana-developers/helpers
+
+Solana水龙头：
+// https://solfaucet.com/
+// https://faucet.solana.com/
+
+
+
+文档：
